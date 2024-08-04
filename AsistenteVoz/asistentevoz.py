@@ -40,3 +40,5 @@ if 'max' in hablar():
     webbrowser.open(f'https://listado.mercadolibre.com.mx/{text}')
 else:
     print ("no has dicho nada")
+    
+    
